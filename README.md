@@ -12,4 +12,5 @@ Today, I will use a dataset on eruption durations and waiting times to see if we
 The dataset has one row for each observed eruption. It includes the following columns:
 
 duration: Eruption duration, in minutes
+
 wait: Time between this eruption and the next, also in minutes
