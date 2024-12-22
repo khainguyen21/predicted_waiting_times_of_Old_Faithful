@@ -7,7 +7,7 @@ Old Faithful is a geyser in Yellowstone National Park that is famous for eruptio
 
 Some of Old Faithful's eruptions last longer than others. Whenever there is a long eruption, it is usually followed by an even longer wait before the next eruption. If you visit Yellowstone, you might want to predict when the next eruption will happen, so that you can see the rest of the park instead of waiting by the geyser.
 
-Today, we will use a dataset on eruption durations and waiting times to see if we can make such predictions accurately with linear regression.
+Today, I will use a dataset on eruption durations and waiting times to see if we can make such predictions accurately with linear regression.
 
 The dataset has one row for each observed eruption. It includes the following columns:
 
