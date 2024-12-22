@@ -1,9 +1,9 @@
-How Faithful is Old Faithful?
+# How Faithful is Old Faithful?
 
 Old Faithful is a geyser in Yellowstone National Park that is famous for eruption on a fairly regular schedule. Run the cell below to see Old Faithful in action!
 
-# For the curious: this is a video displaying Old Faithful
-# https://www.youtube.com/watch?v=wE8NDuzt8eg
+##### For the curious: this is a video displaying Old Faithful
+##### https://www.youtube.com/watch?v=wE8NDuzt8eg
 
 Some of Old Faithful's eruptions last longer than others. Whenever there is a long eruption, it is usually followed by an even longer wait before the next eruption. If you visit Yellowstone, you might want to predict when the next eruption will happen, so that you can see the rest of the park instead of waiting by the geyser.
 
