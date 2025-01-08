@@ -14,3 +14,7 @@ The dataset has one row for each observed eruption. It includes the following co
 duration: Eruption duration, in minutes
 
 wait: Time between this eruption and the next, also in minutes
+
+predicted: Predicted time between this eruption and the next, in minutes
+
+![Screenshot 2025-01-07 at 4 52 44 PM](https://github.com/user-attachments/assets/54338854-7549-46f3-a319-acf6a3882776)
