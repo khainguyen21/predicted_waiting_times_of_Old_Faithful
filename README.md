@@ -9,7 +9,18 @@ Some of Old Faithful's eruptions last longer than others. Whenever there is a lo
 
 Today, I will use a dataset on eruption durations and waiting times to see if we can make such predictions accurately with linear regression.
 
-The dataset has one row for each observed eruption. It includes the following columns:
+The original dataset has one row for each observed eruption. It includes the following columns:
+
+duration: Eruption duration, in minutes
+
+wait: Time between this eruption and the next, also in minutes
+
+
+## Picture: 
+
+In the picture below, I have added the predicted column after training data and predicted the wait time. 
+
+It includes the follow columns: 
 
 duration: Eruption duration, in minutes
 
