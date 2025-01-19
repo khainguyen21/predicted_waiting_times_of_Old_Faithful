@@ -20,7 +20,7 @@ wait: Time between this eruption and the next, also in minutes
 
 In the picture below, I have added the predicted column after training data and predicted the wait time. 
 
-It includes the follow columns: 
+It includes the following columns: 
 
 duration: Eruption duration, in minutes
 
@@ -29,3 +29,4 @@ wait: Time between this eruption and the next, also in minutes
 predicted: Predicted time between this eruption and the next, in minutes
 
 ![Screenshot 2025-01-07 at 4 52 44 PM](https://github.com/user-attachments/assets/54338854-7549-46f3-a319-acf6a3882776)
+![Screenshot 2025-01-18 at 9 55 47 PM](https://github.com/user-attachments/assets/d942323f-361c-458d-b286-0396065e8741)
